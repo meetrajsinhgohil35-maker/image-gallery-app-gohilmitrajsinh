@@ -1,0 +1,24 @@
+/* Created by gohilmitrajsinh */
+
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image-box {
+    margin: 10px;
+    background: white;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+img {
+    border-radius: 5px;
+}
